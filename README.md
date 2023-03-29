@@ -1,4 +1,4 @@
-# my-app-react-native
+# Estudos de React Native
 
 ## IMC Calculator
 
